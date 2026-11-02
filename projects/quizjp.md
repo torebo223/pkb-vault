@@ -3,10 +3,14 @@ title: quizjp
 type: project
 created: 2026-11-02 10:46
 updated: 2026-11-02 21:30
-tags: [project]
+tags:
+- project
 status: active
-repos: [quizjp]
+repos:
+- quizjp
+permalink: pkb/projects/quizjp
 ---
+
 # quizjp
 
 ## 概要
@@ -43,4 +47,3 @@ riku の感想「結構おもろいかも」（2026-10-23）。
 - 2026-10-22: 企画（スレッド「特産品ジオゲッサー企画」）。最初は県単位の特産品クイズ
 - 2026-10-23: 答えを「市」までに、ヒント・ジャンル追加。リポジトリ作成、PR #1
 - 2026-10-24: モード・図鑑・塗り地図（PR #2）
-

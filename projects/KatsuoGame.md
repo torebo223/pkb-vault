@@ -3,10 +3,15 @@ title: KatsuoGame
 type: project
 created: 2026-11-02 10:46
 updated: 2026-11-02 21:30
-tags: [project, game]
+tags:
+- project
+- game
 status: active
-repos: [KatsuoGame]
+repos:
+- KatsuoGame
+permalink: pkb/projects/katsuo-game
 ---
+
 # KatsuoGame
 
 ## 概要
@@ -56,4 +61,3 @@ repos: [KatsuoGame]
 - 2026-10-08: 漁船・釣りシーンのドット絵を riku と相談しながら作成
 - 2026-10-19: 注文と締め切り（#13）、群れを探して追う（#14）
 - 2026-10-23: #14・#12 を riku の指示でマージ
-

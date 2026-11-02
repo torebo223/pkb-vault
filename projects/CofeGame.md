@@ -3,10 +3,15 @@ title: CofeGame
 type: project
 created: 2026-11-02 10:46
 updated: 2026-11-02 21:30
-tags: [project, game]
+tags:
+- project
+- game
 status: active
-repos: [CofeGame]
+repos:
+- CofeGame
+permalink: pkb/projects/cofe-game
 ---
+
 # CofeGame
 
 ## 概要
@@ -45,4 +50,3 @@ repos: [CofeGame]
 
 ## 作業ログ
 - 2026-09-28: 企画開始（スレッド「新しいゲームの企画」）。企画書 v0.5 とブラウザお試し版。リポジトリ CofeGame を初回チェックイン
-

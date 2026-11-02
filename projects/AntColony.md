@@ -3,10 +3,16 @@ title: AntColony
 type: project
 created: 2026-11-02 10:46
 updated: 2026-11-02 21:30
-tags: [project, game]
+tags:
+- project
+- game
 status: active
-repos: [AntColony, AntColony-Unity]
+repos:
+- AntColony
+- AntColony-Unity
+permalink: pkb/projects/ant-colony
 ---
+
 # AntColony
 
 ## 概要
@@ -55,4 +61,3 @@ repos: [AntColony, AntColony-Unity]
 - 2026-10-07〜08: ドット絵（#8、2026-10-19 マージ、Unity #2）
 - 2026-10-19: 創設パート（#7 / Unity #3、未マージ）
 - 2026-10-23: 女王室1マス・引っ越し、六角形の森マップと遠征（試作）
-

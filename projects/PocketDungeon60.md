@@ -3,10 +3,15 @@ title: PocketDungeon60
 type: project
 created: 2026-11-02 10:46
 updated: 2026-11-02 21:30
-tags: [project, game]
+tags:
+- project
+- game
 status: active
-repos: [PocketDungeon60]
+repos:
+- PocketDungeon60
+permalink: pkb/projects/pocket-dungeon60
 ---
+
 # PocketDungeon60
 
 ## 概要
@@ -50,4 +55,3 @@ repos: [PocketDungeon60]
 - 2026-10-08: #3 マージ。Noto Sans JP 切り替えの準備、Android ビルドのエディタスクリプト、アイコン
 - 2026-10-19: #4 マージ、テスト APK ビルド、バグ洗い出し
 - 2026-10-23: #5（バグ11件）・#6（WebGL ビルド）マージ。Actions の初回ビルドがログインで失敗
-
