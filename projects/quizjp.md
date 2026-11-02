@@ -3,10 +3,14 @@ title: quizjp
 type: project
 created: 2026-11-02 10:46
 updated: 2026-11-02 10:46
-tags: [project]
+tags:
+- project
 status: active
-repos: [quizjp]
+repos:
+- quizjp
+permalink: pkb/projects/quizjp
 ---
+
 # quizjp
 
 ## 概要
@@ -31,4 +35,3 @@ repos: [quizjp]
 - part_of [[index]]
 
 ## 作業ログ
-

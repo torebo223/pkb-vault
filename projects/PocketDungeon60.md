@@ -3,10 +3,15 @@ title: PocketDungeon60
 type: project
 created: 2026-11-02 10:46
 updated: 2026-11-02 10:46
-tags: [project, game]
+tags:
+- project
+- game
 status: active
-repos: [PocketDungeon60]
+repos:
+- PocketDungeon60
+permalink: pkb/projects/pocket-dungeon60
 ---
+
 # PocketDungeon60
 
 ## 概要
@@ -33,4 +38,3 @@ repos: [PocketDungeon60]
 - relates_to [[ゲーム]]
 
 ## 作業ログ
-

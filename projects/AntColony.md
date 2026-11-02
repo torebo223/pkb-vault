@@ -3,10 +3,16 @@ title: AntColony
 type: project
 created: 2026-11-02 10:46
 updated: 2026-11-02 10:46
-tags: [project, game]
+tags:
+- project
+- game
 status: active
-repos: [AntColony, AntColony-Unity]
+repos:
+- AntColony
+- AntColony-Unity
+permalink: pkb/projects/ant-colony
 ---
+
 # AntColony
 
 ## 概要
@@ -35,4 +41,3 @@ repos: [AntColony, AntColony-Unity]
 - relates_to [[ゲーム]]
 
 ## 作業ログ
-
