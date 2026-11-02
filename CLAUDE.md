@@ -1,3 +1,9 @@
+---
+permalink: pkb/claude
+title: CLAUDE
+type: note
+---
+
 # pkb-vault
 
 torebo223 のパーソナルナレッジベース（非公開）。pkb プラグイン（torebo223/personal-claude）の保管庫。

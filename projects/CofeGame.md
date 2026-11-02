@@ -3,10 +3,15 @@ title: CofeGame
 type: project
 created: 2026-11-02 10:46
 updated: 2026-11-02 10:46
-tags: [project, game]
+tags:
+- project
+- game
 status: active
-repos: [CofeGame]
+repos:
+- CofeGame
+permalink: pkb/projects/cofe-game
 ---
+
 # CofeGame
 
 ## 概要
@@ -29,4 +34,3 @@ Unity 6 / URP 2D のプロジェクト。内容はまだ未定義（リポジト
 - relates_to [[ゲーム]]
 
 ## 作業ログ
-

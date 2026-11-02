@@ -1,7 +1,9 @@
 ---
 title: index
 type: moc
+permalink: pkb/index
 ---
+
 # Index
 
 知識ベースの入口。
