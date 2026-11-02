@@ -1,0 +1,28 @@
+---
+title: AntColony
+type: project
+created: 2026-11-02 10:46
+updated: 2026-11-02 10:46
+tags: [project, game]
+status: active
+repos: [AntColony, AntColony-Unity]
+---
+# AntColony
+
+## 概要
+（このプロジェクトは何か・ゴール）
+
+## 現在の状況
+（未記入）
+
+## 次の一手
+- （未記入）
+
+## 決定事項
+
+## Observations
+
+## Relations
+
+## 作業ログ
+
