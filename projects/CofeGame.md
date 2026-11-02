@@ -10,19 +10,23 @@ repos: [CofeGame]
 # CofeGame
 
 ## 概要
-（このプロジェクトは何か・ゴール）
+Unity 6 / URP 2D のプロジェクト。内容はまだ未定義（リポジトリはサンプルシーンのみ、2026-09-28 初回チェックイン）。
+
+> [!note] Claude: 2026-11-02 に torebo223/CofeGame の README・CLAUDE.md・コミット履歴から下書き。違っていたら直してください。
 
 ## 現在の状況
-（未記入）
+未着手（Unity の初期状態のみ）。
 
 ## 次の一手
-- （未記入）
+- [question] どんなゲームにするか（コーヒー／カフェもの？）
 
 ## 決定事項
 
 ## Observations
 
 ## Relations
+- part_of [[index]]
+- relates_to [[ゲーム]]
 
 ## 作業ログ
 

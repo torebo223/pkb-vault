@@ -13,6 +13,7 @@ type: moc
 - links_to [[KatsuoGame]]
 - links_to [[PocketDungeon60]]
 - links_to [[CofeGame]]
+- links_to [[ゲーム]]
 - links_to [[株]]
 - links_to [[ガジェット]]
 - links_to [[ブログ]]
